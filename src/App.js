@@ -17,9 +17,6 @@ function App() {
         >
           Learn React; I was changed on the feature branch
         </a>
-        <p>
-        Github Actions is awesome
-        </p>
       </header>
     </div>
   );

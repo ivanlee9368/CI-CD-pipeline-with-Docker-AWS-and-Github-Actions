@@ -1,4 +1,3 @@
-#for AWS EBS
 version: '3'
 services:
   web:
